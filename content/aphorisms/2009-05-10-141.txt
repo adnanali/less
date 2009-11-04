@@ -11,4 +11,4 @@ filter:
   - gfm
 ---
 
-see, we're not having an intelligent conversation… you aren't holding up your end of intelligent
+see, we're not having an intelligent conversationi... you aren't holding up your end of intelligent
