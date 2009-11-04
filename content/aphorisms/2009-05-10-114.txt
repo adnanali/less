@@ -11,4 +11,4 @@ filter:
   - gfm
 ---
 
-when I say “Thank you for having listened to me”, it doesn't necessarily mean I'm done talking
+when I say "Thank you for having listened to me", it doesn't necessarily mean I'm done talking
