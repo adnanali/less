@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/184"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:51:14 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+I value honesty over modesty and that is why, among other reasons, I am awesome.

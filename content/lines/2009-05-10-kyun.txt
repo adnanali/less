@@ -1,0 +1,28 @@
+---
+layout: post
+title: "kyun?"
+category: "lines"
+directory: "lines/kyun"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:21:27 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+hum kaun hai?
+tum kaun ho?
+mein kaun hoon?
+
+nahin humare jaise hazaroon?
+kya tum aik hi ho?
+kya mein aik hi hoon?
+
+phir kya farkh?
+tum mein aur uss mein?
+mujh mein aur uss mein?
+
+phir kyun yeh sab?
+tum kyun ho?
+mein kyun hoon?

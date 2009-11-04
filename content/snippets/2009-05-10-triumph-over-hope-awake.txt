@@ -1,0 +1,24 @@
+---
+layout: post
+title: "triumph over hope: awake"
+category: "snippets"
+directory: "snippets/triumph-over-hope-awake"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 18:23:56 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+Sometimes you're awake for so long you forget if you've ever slept. I don't remember what sleep feels like. I just feel an emptiness. But at some point I know I must have.
+
+I think it's supposed to wear me thin. But I'm not sure what I'm supposed to think. I'm not sure what I'm supposed to feel. Why won't they leave me alone? Is this a punishment or a reward? Do they have any idea of the madness in my mind?
+
+Every time I see the sky my first reaction, my first instincts are to cry. And I do. A chance for my tears to touch the free air, a chance for them to be free. But I can't be like this for too long. I don't want them to see me like this for too long. It's just me, it doesn't really matter what they see. They see everything anyway.
+
+But why? Why do they let me see the open sky? Why won't they just let me die in this enclosed shell, in this darkness? I have to re-familiarize myself with the darkness, with the silence over and over again. These are punches that leave no bruises, they only leave pain.
+
+This is torture. Hope is torture and death relief.
+
+I need to sleep.

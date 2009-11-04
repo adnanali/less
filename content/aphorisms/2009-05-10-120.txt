@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/120"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:27:57 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+if I got a thousand dollars everytime someone said that to me, I would have three thousand five hundred dollars

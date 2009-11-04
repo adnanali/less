@@ -1,0 +1,22 @@
+---
+layout: post
+title: "who I am"
+category: "lines"
+directory: "lines/who-i-am"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 16:26:34 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+it is important
+that no one
+is watching
+it is then
+that I will be me
+it is then
+that you will know
+who I am
+and even then?

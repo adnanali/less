@@ -1,0 +1,160 @@
+body {
+  background-color: #D1D1DF; /* #EDEFE4; */ /* #4B7399; */
+  font-family: Cambria,Georgia,Palatino,Palatino Linotype,Serif; /* Verdana, Helvetica, Arial; */
+  font-size: 120%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 5px;
+  padding: 0;
+}
+
+a img {
+  border: none;
+}
+
+a {
+  color: #0000FF;
+}
+
+.title a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.clear {
+  clear: both;
+  height: 0;
+  overflow: hidden;
+}
+
+#header {
+  width: 850px;
+  margin: 0 auto;
+  padding-top: 20px;
+  margin-bottom: 5px;
+  text-align: left;
+  /* border: solid 1px black; */
+}
+
+#footer {
+  width: 850px;
+  margin: 0 auto;
+  padding: 3px;
+}
+
+#container {
+  width: 850px;
+  margin: 0 auto;
+  background-color: #FFF;
+  /* border: solid 1px black; */
+}
+
+#page {
+  width: 814px;
+  background-color: #FFF;
+  padding: 18px 18px 18px 18px;
+  /* border: solid 1px black; */
+}
+
+#flash_notice, #flash_error {
+  padding: 5px 8px;
+  margin: 10px 0;
+}
+
+#flash_notice {
+  background-color: #CFC;
+  border: solid 1px #6C6;
+}
+
+#flash_error {
+  background-color: #FCC;
+  border: solid 1px #C66;
+}
+
+.fieldWithErrors {
+  display: inline;
+}
+
+#errorExplanation {
+  width: 400px;
+  border: 2px solid #CF0000;
+  padding: 0px;
+  padding-bottom: 12px;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+
+#errorExplanation h2 {
+  text-align: left;
+  font-weight: bold;
+  padding: 5px 5px 5px 15px;
+  font-size: 12px;
+  margin: 0;
+  background-color: #c00;
+  color: #fff;
+}
+
+#errorExplanation p {
+  color: #333;
+  margin-bottom: 0;
+  padding: 8px;
+}
+
+#errorExplanation ul {
+  margin: 2px 24px;
+}
+
+#errorExplanation ul li {
+  font-size: 12px;
+  list-style: disc;
+}
+
+.cover {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.cover ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.cover ul li{
+  list-style: none;
+  margin: 0;
+}
+
+.entry {
+  padding: 15px;
+  padding-top: 0;
+  line-height: 140%;
+}
+
+.page_nav {
+  width: 99%;
+  margin: 0 auto;
+}
+
+.page_nav .listing {
+  float: left;
+}
+
+.nav {
+  float: right;
+}
+
+.contact {
+  float:right;
+}
+
+.contact a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.copy {
+  float:left;
+}

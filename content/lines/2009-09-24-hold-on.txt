@@ -1,0 +1,55 @@
+---
+layout: post
+title: "hold on"
+category: "lines"
+directory: "lines/hold-on"
+filename: "index"
+extension: "html"
+created_at: 2009-09-24 15:44:18 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+what in/the hell
+is free verse?
+
+this is why
+poetry is such
+a sham.
+
+how the/in hell
+can charles freaking
+bu-
+kows-
+ki
+take a couple
+of (run-on)
+sentences,
+
+put
+one, two
+or three words
+per line and
+call it
+poetry?
+
+even kasparov has to
+go the full distance
+of the board
+<i>every time</i>
+before he can turn
+a pawn into
+a queen.
+
+beauty, I suppose,
+<i>is</i> in the eye
+of the beholder.
+
+it's just that
+some of us
+have to go through
+many more eyes
+before someone
+
+holds on.

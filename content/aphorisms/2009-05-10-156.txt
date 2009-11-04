@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/156"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:40:39 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+and then, for a moment, I heard myself listening, and it gave me further pause.

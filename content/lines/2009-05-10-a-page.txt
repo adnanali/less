@@ -1,0 +1,17 @@
+---
+layout: post
+title: "a page"
+category: "lines"
+directory: "lines/a-page"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 16:56:48 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+all the world's a page
+and all the players writers
+all the world's a rage
+and all the poets fighters

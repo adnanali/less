@@ -1,0 +1,20 @@
+---
+layout: post
+title: "triumph over hope: at rest"
+category: "snippets"
+directory: "snippets/triumph-over-hope-at-rest"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 18:25:27 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+Jacob is sleeping in his room right now. He is at rest. But really, he has always been. The words above are the first time he's said anything or communicated in anyway in the last six weeks. Those words were transcribed from what he said to himself in his room after returning from a routine walk outside. He was alone in his room at the time and I was standing just outside.
+
+I'm not sure how I should react. I am not shocked nor surprised, though we have not been able to pinpoint his condition, we know to expect something like this. Still, I am dismayed. Not because the words don't reflect the outer reality. His room is spacious and there are a few windows. He is in control of the lighting and there is hardy ever any darkness. His sleeping patterns are, for the most part, regular. I am dismayed because there is someone in him who would say those words. And further dismayed because there are people everywhere who would share his sentiments.
+
+Hope cannot be torture for that is not the nature of hope. Torture is the absence of hope. Hope is yours to keep and yours to drop. No one else can take hope from you. But how do I tell him that? How do you communicate with someone who not only does not think like you, but sees a different world? He sees a different reality. So when I hold his hand, I wonder what he sees.
+
+I'm not sure what I do next, there are no guidelines for this. I need to figure things out. I have to do something.

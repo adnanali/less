@@ -1,0 +1,55 @@
+---
+extension: html
+filter:    erb
+---
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title><%= @page.title %></title>
+    <link rel="stylesheet" type="text/css" href="/css/stylesheet.css" charset="utf-8">
+  </head>
+  <body>
+    <div id="header">
+      <div class="title">
+        <a href="/">more or less, unless</a>
+      </div>
+    </div>
+    <div id="container">
+      <div id="page">
+        <div class="nav">
+          <% unless @page.prev.nil? %>
+          <%= link_to "previous", @page.prev %>
+          <% end %>
+          <% if !@page.prev.nil? && !@page.next.nil? %>
+            |
+          <% end %>
+          <% unless @page.next.nil? %>
+          <%= link_to "next", @page.next %>
+          <% end %>
+        </div>
+          <h1><%= @page.title %></h1>
+          <div class="entry">
+            <%= @content %>
+          </div>
+          <div class="page_nav">
+            <div class="listing">
+              <%= link_to @page.category, "/#{@page.category}" %>
+            </div>
+            <div class="clear">
+            </div>
+          </div>
+      </div>
+    </div>
+    <div id="footer">
+      <a class="copy" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/ca/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/2.5/ca/80x15.png" /></a>
+      <div class="contact">
+        <a href="http://tobeortobe.wordpress.com/about/">adnan.</a>
+      </div>
+      <div class="clear">
+      </div>
+    </div>
+
+  </body>
+</html>
+

@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/192"
+filename: "index"
+extension: "html"
+created_at: 2009-09-24 15:46:18 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+What I don't like about translations, primarily, is that they're not in the original language.

@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/159"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:41:31 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+in a circle, all ends are connected.

@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/129"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:32:05 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+I like working on something that works

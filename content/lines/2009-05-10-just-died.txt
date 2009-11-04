@@ -1,0 +1,21 @@
+---
+layout: post
+title: "just died"
+category: "lines"
+directory: "lines/just-died"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:13:42 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+a dream just died
+but we live without it
+we had felt it
+but lost it
+we did not die with it
+a dream just died
+leaving nothing
+just us

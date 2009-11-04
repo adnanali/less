@@ -1,0 +1,26 @@
+---
+layout: post
+title: "light"
+category: "lines"
+directory: "lines/light"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:14:18 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+I have no delusions
+of light at the end of the tunnel.
+I don't expect to get there.
+God may have said,
+“let there be light”.
+I say, “there need be none”.
+I have no delusions.
+I roam in any direction
+that my feet will lead me.
+I carry nothing with me.
+nothing here is mine.
+only the journey…
+maybe the journey is mine.

@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/102"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:21:22 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+when there's nothing to do, anything can be done. but sometimes somethings must be done, and at those times nothing gets done.

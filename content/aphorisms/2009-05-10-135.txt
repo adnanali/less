@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/135"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:33:59 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+you have the eyes of the beholder

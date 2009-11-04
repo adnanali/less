@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/97"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:19:47 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+what goes up will stay up, unless it comes down

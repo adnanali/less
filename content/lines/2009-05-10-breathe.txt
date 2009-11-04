@@ -1,0 +1,18 @@
+---
+layout: post
+title: "breathe"
+category: "lines"
+directory: "lines/breathe"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 16:48:37 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+step slower
+sip slower
+
+dip deeper
+dig deeper

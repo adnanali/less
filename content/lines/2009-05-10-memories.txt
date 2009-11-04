@@ -1,0 +1,37 @@
+---
+layout: post
+title: "memories"
+category: "lines"
+directory: "lines/memories"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:09:49 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+my old memories
+are long gone and
+I cannot make memories
+for more than a day
+
+every book I read
+is like deja vu
+a faint thread
+a slight sense of connection
+but that too falls
+my memory fails me
+but brings me
+a new day everyday
+
+in ways it is good
+I can cry today
+and not remember tomorrow
+but I can love today
+and not remember tomorrow
+that thought hurts me today
+but will not hurt me tomorrow
+
+I am reborn every day
+a reminder of death from yesterday

@@ -1,0 +1,20 @@
+---
+layout: post
+title: "mad men"
+category: "lines"
+directory: "lines/mad-men"
+filename: "index"
+extension: "html"
+created_at: 2009-10-04 23:34:22 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+I used to think
+that only mad men sing
+songs that speak of dreams
+
+then I came to my senses
+or my senses came to me
+and then I fell asleep

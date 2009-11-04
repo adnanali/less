@@ -1,0 +1,26 @@
+---
+layout: post
+title: "no strings attached: the way out"
+category: "snippets"
+directory: "snippets/no-strings-attached-the-way-out"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 18:40:35 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+The weather keeps getting heavier, the snow keeps falling, the roads and sidewalks keep getting slipperier. The street car stops to pick up more commuters.  Harry, still seated, puts his palm against the glass and waits for a few seconds. He removes his hand and watches his palm take shape in the dew. He draws an octagon to enclose the shape of his palm.
+
+For a moment Harry considers giving up his seat to someone else, but he doesn't. He puts his elbows on his knees and his palms on his forehead. One of his palms is still a little wet. The level of the street car seems to sink with each climbing passenger. The doors close and one commuter, running as he tries to get to the doors, slips and falls. The street car moves on.
+
+Harry reaches for his phone, one of his palms still supporting his forehead.
+
+"You've reached Sam, and if you're calling you probably know who I am", says the recording, "Wait for the beep and leave a message, your odds might be better if you call again."
+
+"Hey, uh... it's me. I know I said a few things today and I umm... I just wanted to...", Harry pauses to take a deep breath and that very moment a giant, out of control construction truck collides with the street car in the spot where Harry was sitting.
+
+Harry did not know what hit him.
+
+THE END.

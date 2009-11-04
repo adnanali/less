@@ -1,0 +1,32 @@
+---
+layout: post
+title: "dastak"
+category: "lines"
+directory: "lines/dastak"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:17:52 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+agar kuch aitebaar ho, to karo
+thoda aur intezaar kar sako, to karo
+koi aayega, woh dastak liye aayega
+
+dil ko aaram de sako, to do
+dil ki awaaz dhoondho, phir sunoo
+dil to dil hai, dhak dhak kiye jaayega
+
+zindagi ki rah pe chal sako, to chalo
+zinda-dili ka raqs kar sako, to karo
+waqt to darya hai, behta chala jaayega
+
+akaash pe urr sako, to uro
+sitaron ko chu sako, to chu'o
+ye karwaan hai, barhta chala jaayega
+
+ab saansein na baitho pakar
+chor do agar ho koi dar
+koi aayega, woh dastak liye aayega

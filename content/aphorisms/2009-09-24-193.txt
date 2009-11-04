@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/193"
+filename: "index"
+extension: "html"
+created_at: 2009-09-24 15:46:44 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+Your reputation precedes you, and with any luck, you will depart before it does.

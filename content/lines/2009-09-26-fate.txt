@@ -1,0 +1,16 @@
+---
+layout: post
+title: "fate"
+category: "lines"
+directory: "lines/fate"
+filename: "index"
+extension: "html"
+created_at: 2009-09-26 00:47:08 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+if you read this,
+you have read it.
+that will never change.

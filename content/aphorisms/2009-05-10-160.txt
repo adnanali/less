@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/160"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:41:57 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+that's a vicious cycle, we should just buy a car.

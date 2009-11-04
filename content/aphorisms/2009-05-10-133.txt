@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/133"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:33:22 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+if I had all the money in the world, I'd buy time

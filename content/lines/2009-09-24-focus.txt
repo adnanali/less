@@ -1,0 +1,16 @@
+---
+layout: post
+title: "focus"
+category: "lines"
+directory: "lines/focus"
+filename: "index"
+extension: "html"
+created_at: 2009-09-24 15:40:48 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+focus is like a
+body of water fighting
+evaporation.

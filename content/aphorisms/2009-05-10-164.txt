@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/164"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:43:33 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+if you always go for the kitchen sink, you'll find yourself stuck doing dishes.

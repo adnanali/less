@@ -1,0 +1,54 @@
+---
+layout: post
+title: "no strings attached: 5 years ago - the way in"
+category: "snippets"
+directory: "snippets/no-strings-attached-5-years-ago-the-way-in"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 18:32:24 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+There was no street car in the distance; a daily occurrence of absence. Harry was getting impatient as he fiddled with his token. It was his last token from the batch. The winter weather was making him all the more anxious. 
+
+A sense of relief could be felt in the air when the street car did approach. All the frowns of the waiting commuters had been normalized to nothingness. Harry lost his grip on the token as he walked towards the street car. The token found its way down the gutter. The perfect start to a perfect day, Harry thought, and momentarily considered going back home. He started to fiddle with his change while climbing the steps of the street car and stood there as he counted for a while. The commuters' nothingness quickly converted to frowns again as they pushed and slipped past Harry to get the empty seats. Eventually, the change was counted and deposited into the box. There were no seats left for Harry.
+
+"Hi, it's my first day here", said Harry to the receptionist.
+
+"Okay, what's your first name?", said the receptionist, he had already started to peruse the new employee list. 
+
+"That's odd, you have the list sorted by first name instead of last? My name is Bond. Harry Bond", Harry took a deep breath after looking at the receptionist's blank stare, "No, that's not my real name. Uh, the name is Harry."
+
+"Okay... Harry... Harry... Harry... there you are! You're to report to Sam and you'll get your intro session when you two meet. Take the elevators to the third floor, it'll be the third door to your right. It's a shared office, so just ask for Sam."
+
+"Thanks", Harry smiled, his toes had warmed up. 
+
+Harry walked into the shared office and up to one of the desks.
+
+"Hi, I'm looking for Sam", said Harry.
+
+"Oh, you're the new guy. Harry, right?", said John, "Sam's not here right now. Probably taking a smoke break. You know what? You should just go there. You can get your office tour on the way back up. Go back down to the first floor, and look for the fire exit door with the 't' a bit torn off. Don't worry, it won't set off an alarm. You should find Sam right there."
+
+He looked right and then left as soon as he opened the door with the 't' a bit torn off. Out of the corner of his eye he spotted smoke. 
+
+"You... are... Sam...", said Harry, pausing slightly after each word.
+
+"Is that a question or a statement?", said Sam.
+
+"No, it's just... I thought that... you would be..."
+
+"A guy? You were expecting a guy?"
+
+"No, I thought you would be... shorter."
+
+"Hah, a clever one. You must be Harry.", Sam extended her right hand for a handshake, "That was a statement, not a question. I'm Samantha."
+
+"Right, of course, Samantha", Harry was slightly embarrassed.
+
+"Would you like one?", Samantha held up her packet of smokes.
+
+"No, I don't smoke."
+
+"Yeah, I know. It's an awful thing. I'm trying to quit myself", said Samantha, as she threw the cigarette butt into the bin, "Come on, let me show you around."

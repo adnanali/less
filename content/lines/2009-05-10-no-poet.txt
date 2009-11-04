@@ -1,0 +1,20 @@
+---
+layout: post
+title: "no poet"
+category: "lines"
+directory: "lines/no-poet"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 16:55:03 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+I really want to show ‘em
+and try and get to know ‘em
+perhaps I'll write a poem
+
+and while I may show it
+both you and I know it
+that I am no poet

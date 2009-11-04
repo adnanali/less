@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/104"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:22:25 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+there are so many right ways to do the right thing, I always pick the wrong one.

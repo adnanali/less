@@ -1,0 +1,27 @@
+---
+layout: post
+title: "your eyes"
+category: "lines"
+directory: "lines/your-eyes"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:26:40 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+eyes?
+what of them?
+what about them?
+they are objects for a romantic lover's rhymes,
+but not mine.
+
+no,
+I did not see or look into your eyes before
+I was taken by the aura of your presence,
+the rhythm of your actions,
+and your raging imperfections.
+
+your eyes?
+I have already forgotten your eyes.

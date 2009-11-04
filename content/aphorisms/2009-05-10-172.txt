@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/172"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:47:26 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+I choose quality over quality, and quantity over quantity... but never one over the other.

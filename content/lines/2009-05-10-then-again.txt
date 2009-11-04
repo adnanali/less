@@ -1,0 +1,52 @@
+---
+layout: post
+title: "then again"
+category: "lines"
+directory: "lines/then-again"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:08:22 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+I await a day
+where with a clear mind
+I can read a book
+and then again
+and then again
+and then again
+and maybe, then again
+
+a day
+where with a rocking rhythm
+I can strum a chord
+and then again
+and then again
+and then again
+and maybe, then again
+
+a day
+where with my echoes
+I can sing a song
+and then again
+and then again
+and then again
+and maybe, then again
+
+a day
+where with simple words
+I can write
+and then again
+and then again
+and then again
+and maybe, then again
+
+a night
+where with the clouds, the stars, the moon
+I can breathe
+and then again
+and then again
+and then again
+and maybe then …

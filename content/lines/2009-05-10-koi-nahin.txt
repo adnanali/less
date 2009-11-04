@@ -1,0 +1,28 @@
+---
+layout: post
+title: "koi nahin"
+category: "lines"
+directory: "lines/koi-nahin"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:11:56 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+kaun nahin?
+kaun kaun nahin?
+kaun kahaan nahin?
+kaun yahaan nahin?
+kisne kya kahaa?
+kisne kya kahaa nahin?
+kisne kuch kahaa?
+kisne kehdiya nahin?
+kaun ayaa nahin?
+kaun jataa nahin?
+kisne sunaa?
+kisne dekha nahin?
+dekho…
+koi nahin…
+koi nahin.

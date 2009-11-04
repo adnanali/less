@@ -1,0 +1,44 @@
+---
+layout: post
+title: "no strings attached: 3 years ago - the way up"
+category: "snippets"
+directory: "snippets/no-strings-attached-3-years-ago-the-way-up"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 18:35:26 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+It was another late night at the office for Harry, another tight project. 
+
+"You know why I'm here, right?", said Samantha, as she walked up to Harry's desk.
+
+"Yeah."
+
+"So you know what to do."
+
+"I don't want to."
+
+"That's nice, and I want a second season of Firefly, but that's not going to happen. But this, you can make this happen. All you have to do is add the analysis to the proposal and they'll probably approve it."
+
+"I shouldn't have to. That's time wasted doing analysis that should be obvious."
+
+"Listen kiddo, I'm on your side here. You give a little, you get a little. Hell, you might even get a lot. You just have to make the extra effort, even if it obvious to you. You don't make the effort, you get nothing. I assure you that."
+
+"Okay."
+
+"So you know what to do. Don't make me come back here."
+
+Steve Steeples was the man to convince at the proposal presentation. 
+
+"Hmmm... yeah, I think it's doable. Great analysis Harry.", said Steve, everyone in the room started to loosen their grips on the chairs and slowly emptied the room.
+
+Samantha approached Harry with a smirk on her face.
+
+"You can say it, say 'I told you so'", said Harry.
+
+"I won't", replied Samantha.
+
+"They're all idiots anyway."

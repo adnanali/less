@@ -1,0 +1,28 @@
+---
+layout: post
+title: "tera naam"
+category: "lines"
+directory: "lines/tera-naam"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:10:30 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+bhatakti nigahen
+woh rahaa dhoondti hai
+asmaan dhoondti hai
+dektho to
+saara jahaan dhoondti hai
+par meri aanhkein
+sirf teri aaha dhoondti hai
+
+bhatakti nigahen
+woh jaam dhoondti hai
+sar-e-aam dhoondti hai
+jeetne ko
+koi eenaam dhoondti hai
+par meri aankhein
+sirf tera naam dhoondti hai

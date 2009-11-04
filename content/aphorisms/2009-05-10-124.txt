@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/124"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:30:32 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+I'm not one to take a situation into my own hands, unless it falls into my lap

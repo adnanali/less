@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/141"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:35:48 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+see, we're not having an intelligent conversation… you aren't holding up your end of intelligent

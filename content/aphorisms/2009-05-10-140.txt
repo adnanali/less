@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/140"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:35:25 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+there's nothing awkward about silence

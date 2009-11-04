@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/165"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:43:57 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+and what of those who steal fruit, just to taste something sweet?

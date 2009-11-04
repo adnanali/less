@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/167"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:45:04 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+I <em>wish</em> objects in that mirror were closer than they appear to be.

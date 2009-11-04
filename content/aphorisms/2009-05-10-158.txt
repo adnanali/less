@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/158"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:41:14 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+some sentences end long before the full stop, I hope you get to the end of this one.

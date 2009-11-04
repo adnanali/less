@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/136"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:34:16 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+is that a cell phone ring or did someone just win a prize?

@@ -1,0 +1,19 @@
+---
+title:       Home Page
+created_at:  2008-08-02 14:06:40.000000 -06:00
+filter:
+  - erb
+  - gfm
+---
+<h1>aphorisms</h1>
+
+<ol>
+  <%
+    p = @pages.find(:limit => :all, :in_directory => @page.dir, :recursive => true,
+                           :reverse => false, :sort_by => "created_at")
+    p.delete(@page)
+    p.each do |pp|
+    %>
+    <li style="margin-top: 15px; margin-bottom:15px;"><%= render(pp)  %></li>
+  <% end %>
+</ol>

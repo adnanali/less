@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/195"
+filename: "index"
+extension: "html"
+created_at: 2009-09-24 20:47:23 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+The problem with life isn't that there is no undo button, the problem is that life has a redo button that people press all too often.

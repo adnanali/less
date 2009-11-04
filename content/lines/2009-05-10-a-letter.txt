@@ -1,0 +1,17 @@
+---
+layout: post
+title: "a letter"
+category: "lines"
+directory: "lines/a-letter"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 16:52:59 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+a letter I sight
+a letter so bright
+a letter I might
+a letter just write

@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/142"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:36:08 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+you strike me as a person.

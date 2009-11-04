@@ -1,0 +1,22 @@
+---
+layout: post
+title: "khafa"
+category: "lines"
+directory: "lines/khafa"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:10:53 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+kyun hai dil khud se khafa?
+kya hai naraazgi ki whajha?
+jaaye to ab jaaye kahaan?
+dil se kaise faasle, kaise dil se dooriyaan?
+
+poonchta hoon khud se yeh sawaal,
+par jaanta hoon kya marz hai.
+dil se hoon is liye khafa,
+kyun ke dil badaa khudgarz hai.

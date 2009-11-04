@@ -1,0 +1,20 @@
+---
+layout: post
+title: "mirror"
+category: "lines"
+directory: "lines/mirror"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:21:51 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+I am not sure now
+that if I had mirrored
+your every move,
+whether I'd be stuck
+in a well down below
+or stuck
+in the clouds up above.

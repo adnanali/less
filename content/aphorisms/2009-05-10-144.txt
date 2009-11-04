@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/144"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:36:41 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+what is the difference between the moments you want to live to see, and the moments you would die for?

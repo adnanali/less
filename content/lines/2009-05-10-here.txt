@@ -1,0 +1,18 @@
+---
+layout: post
+title: "here"
+category: "lines"
+directory: "lines/here"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:16:28 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+I am here
+because I am lost.
+but I know
+that I will not
+find myself here.

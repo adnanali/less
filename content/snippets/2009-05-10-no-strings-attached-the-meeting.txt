@@ -1,0 +1,36 @@
+---
+layout: post
+title: "no strings attached: the meeting"
+category: "snippets"
+directory: "snippets/no-strings-attached-the-meeting"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 18:29:46 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+This is one of the smaller meeting rooms in this building. By the looks of it this meeting will be a short one. It's always hard to tell. 
+
+"Harry, I don't want to beat around the bush and get straight to the point", says Simon Steeples, the Senior VP of Operations. He's joined by two other high ranking VPs. Having found Harry, Samantha is also in the room.
+
+"Does that mean you want to get straight to the point or you don't want to get straight to the point?", you would expect Harry to ask a question like this, and he does.
+
+"I... what?... no...", stumbles Simon, "I want to get straight to the point."
+
+"Then why haven't you already?"
+
+"Okay Harry, we're letting you go."
+
+A numb like silence overtakes the room. Harry, perplexed, looks over at Samantha.
+
+"Harry, I didn't know", she says, shaking her head from side to side. "Simon, at a time like this? You know we could really use Harry."
+
+"No, we could use to lose him. I assure you that. The decision is final. It's done.", Simon turns to Harry, "Harry, someone is cleaning out your office right now. Stay right there, they'll bring over your stuff and escort you out."
+
+"I know my way out.", says Harry, his hands made into fists supporting his forehead.
+
+"Even so, goodbye."
+
+The VPs leave the room. The door closes smoothly. The room feels just a little smaller.

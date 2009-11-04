@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/170"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:46:49 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+I like to start each day by waking up.

@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/169"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:46:34 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+I'm funny beyond compare, unless you compare me to someone who's just as funny as I am, or someone who's funnier.

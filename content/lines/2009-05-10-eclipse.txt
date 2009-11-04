@@ -1,0 +1,17 @@
+---
+layout: post
+title: "eclipse"
+category: "lines"
+directory: "lines/eclipse"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 16:49:13 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+bin baadal taare chand
+yeh aasmaan kya hota
+poochte to sunle te
+unka andaaz-e-bayaan kya hota

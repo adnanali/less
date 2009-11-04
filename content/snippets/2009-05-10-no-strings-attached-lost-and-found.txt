@@ -1,0 +1,38 @@
+---
+layout: post
+title: "no strings attached: lost and found"
+category: "snippets"
+directory: "snippets/no-strings-attached-lost-and-found"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 18:27:07 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+She looks right and then left as soon as she steps out of the office building. Out of the corner of her eye she spots smoke. She knows she has found him. 
+
+"I've been looking for you all over the place, where have you been?", exasperated, she catches her breath. 
+
+"Here", he says nonchalantly. 
+
+"Smoking will kill you and it gives you bad breath", she knows her advice is unsolicited and will probably be ignored.
+
+"Okay, thanks for the unsolicited advice."
+
+"Fine, at the very least don't throw the butt on the ground. It's disgusting enough that you smoke. Throw it in a garbage bin."
+
+"Okay."
+
+"You have to stop hiding."
+
+"I'm not hiding. I'm just taking a break."
+
+"You're late for the meeting, they're waiting for you. You can't just disappear, you have to stop hiding. Are you listening to me?", she notices that he's drifting away.
+
+He takes a big puff and lets out a rush of smoke. 
+
+"Come on, we can't keep them waiting for too long", she turns around and starts to walk towards the building.
+
+He takes his last puff, flicks the cigarette butt onto the road and follows behind her.

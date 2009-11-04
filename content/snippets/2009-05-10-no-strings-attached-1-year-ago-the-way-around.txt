@@ -1,0 +1,50 @@
+---
+layout: post
+title: "no strings attached: 1 year ago - the way around"
+category: "snippets"
+directory: "snippets/no-strings-attached-1-year-ago-the-way-around"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 18:36:59 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+Samantha opened the door that now read "Fire Ex", but everyone knew what it meant and everyone knew it wouldn't set off the alarm. She found Harry to her right. 
+
+"Hey Sam, what's up?", said Harry, letting the ashes from his cigarette hit the ground.
+
+"Don't start with me! I'm furious right now. Harry, you can't just mouth off like that in a meeting. You just can't."
+
+"I think I just did."
+
+"Yeah, you did. We're going to have to try real hard to dig out of this one. You're making things difficult."
+
+"You know what? You're right. I'm sorry."
+
+"Are you really?"
+
+"Yeah, I am."
+
+"Good, and can you blow the smoke in that direction?", said Samantha as she pointed away.
+
+"Sorry."
+
+"I had a dream about you the other day", said Samantha, in a calmer tone.
+
+"Oh?"
+
+"You were trapped, in chains."
+
+"Hah, doesn't feel like a dream."
+
+"But then you got out. You broke out of the chains."
+
+"What do you think that means?"
+
+"I don't know. I think it means you'll be fine. I think it means you'll find a way."
+
+"I hope so", Harry pulled a cigarette half way and held the pack out toward Samantha.
+
+"No", said Samantha, with a slightly irritated look on her face, "You know I quit a while ago."

@@ -1,0 +1,22 @@
+---
+layout: post
+title: "no time"
+category: "lines"
+directory: "lines/no-time"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:01:27 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+if there is something you must say
+don't wait to be asked
+time is a precious thing
+the moment may not last
+
+so do what you must do
+leave no room for regret
+and remember: if you don't ask
+you don't get

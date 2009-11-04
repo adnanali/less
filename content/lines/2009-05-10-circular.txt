@@ -1,0 +1,33 @@
+---
+layout: post
+title: "circular"
+category: "lines"
+directory: "lines/circular"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:14:50 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+I like circles
+circular motions
+revolving doors
+planetary rotations
+I like circles
+ferris wheels
+and carousels
+such dizzying notions
+I like circles
+the sun
+the moon
+and what's in between
+the stars I have not yet seen
+I like circles
+self-referential
+circular references
+things that end
+in the same way
+they begin
+I like circles

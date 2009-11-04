@@ -1,0 +1,18 @@
+---
+layout: post
+title: "chair"
+category: "lines"
+directory: "lines/chair"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:16:52 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+once I drew a chair.
+no one could
+sit on the chair I drew.
+no one could
+recognize it as a chair.

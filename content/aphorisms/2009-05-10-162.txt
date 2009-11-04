@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/162"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:42:53 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+repetition is annoying. I think I've already stated that.

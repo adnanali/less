@@ -1,0 +1,17 @@
+---
+layout: post
+title: "search"
+category: "lines"
+directory: "lines/search"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:17:19 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+I could not find
+what I had sought,
+because I am
+where it is not.

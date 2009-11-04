@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/145"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:37:05 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+I can read you like a facebook

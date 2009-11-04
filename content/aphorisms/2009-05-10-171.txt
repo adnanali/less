@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/171"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:47:05 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+it's always one o'clock around this time of the day.

@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/115"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:26:03 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+you're not as clever as I thought, and three times more stupider than I had earlier predicted

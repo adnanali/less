@@ -1,0 +1,22 @@
+---
+layout: post
+title: "follower"
+category: "lines"
+directory: "lines/follower"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:18:53 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+not knowing where to go
+not knowing where to be
+I choose to be a follower
+in search for the leader in me
+
+I know it won't be easy
+and as crazy as it seems
+I choose to be a follower
+a follower of my dreams

@@ -1,0 +1,40 @@
+---
+layout: post
+title: "no strings attached: bullshit"
+category: "snippets"
+directory: "snippets/no-strings-attached-bullshit"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 18:30:37 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+"Harry, I had no idea!"
+
+"Sure you didn't."
+
+"That's uncalled for! I'm trying to look out for you."
+
+"Yeah? You did a great job of that in the meeting."
+
+"You're unbelievable. You can't keep pointing fingers at everyone else. God dammit Harry, you need to step up and take responsibility for your actions and your inaction. I've been doing a lot of damage control for you."
+
+"Great good that did."
+
+"What's your problem, Harry? Do you even realize the trouble you've got yourself into? You realize you're out of a job now?"
+
+"Look, I never asked for your help and sure as hell didn't ask for your pity."
+
+"You know what? This is bullshit. Fuck you Harry!"
+
+"Whatever."
+
+Samantha storms out of the room. The door receives no mercy from her as it closes with a resounding thud. She pays no attention to John, who is walking toward the meeting room with a box full Harry's personal belongings, as she walks right past him. 
+
+“This is all your stuff. All the stuff I could find", John muddles around with the contents of the box. "Give me a call if you think I missed anything.”
+
+Harry responds with nothing but a nod.
+
+“Come on Harry, it's time to go.”

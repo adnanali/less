@@ -1,0 +1,17 @@
+---
+layout: post
+title: "my lines"
+category: "lines"
+directory: "lines/my-lines"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 16:22:02 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+this is not poetry
+it is thought in words
+words lined up
+my lines

@@ -1,0 +1,22 @@
+---
+layout: post
+title: "nasha hai"
+category: "lines"
+directory: "lines/nasha-hai"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:12:49 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+kabhi humdum
+to kabhi ghumrah hai
+kabhi shabnam
+to kabhi shola hai
+
+kabhi mehfil
+to kabhi tanhaa hai
+kabhi jaadu
+to kabhi nasha hai

@@ -1,0 +1,22 @@
+---
+layout: post
+title: "look up"
+category: "lines"
+directory: "lines/look-up"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 17:20:57 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+I did not see the stars tonight
+I blamed the city, I blamed the light
+I blamed the weather, I blamed the fog
+I blamed pollution, and I blamed the smog
+
+I thought, where did we all go so wrong?
+I thought, maybe I should write a sad song.
+I thought, oh lord, why is the world so stuck-up?
+but, in fact: I did not see the stars, because I did not look up

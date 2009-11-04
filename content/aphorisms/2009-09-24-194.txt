@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/194"
+filename: "index"
+extension: "html"
+created_at: 2009-09-24 15:47:07 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+if you don't say anything, you never have to repeat yourself.

@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/106"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:23:03 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+I'm sorry to inform you that you didn't make our short-list. You would have made it, but we ran out of space on the paper.

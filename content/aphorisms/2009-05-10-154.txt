@@ -1,0 +1,14 @@
+---
+layout: post
+title: ""
+category: "aphorisms"
+directory: "aphorisms/154"
+filename: "index"
+extension: "html"
+created_at: 2009-05-10 21:40:08 -04:00
+filter:
+  - erb
+  - gfm
+---
+
+the suspense is throwing salt on my wounds, but not killing me yet.
