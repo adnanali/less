@@ -11,8 +11,7 @@ filter:
   - gfm
 ---
 
-<em>
-I'm outside. I hear the bell ring. I did not press it and I am in front of it. How is that even possible? I open the door. Smoke flows out of the house, I can't see anything inside. There is too much smoke. Against my better judgement I step inside. 
+*I'm outside. I hear the bell ring. I did not press it and I am in front of it. How is that even possible? I open the door. Smoke flows out of the house, I can't see anything inside. There is too much smoke. Against my better judgement I step inside. 
 
 I know only from the sounds that chains are falling all around the house. Are they meant to fall on me? Why am I here? What am I looking for? I must find it.
 
@@ -32,7 +31,6 @@ I'm falling.
 
 I'm falling.
 
-I'm falling.
-</em>
+I'm falling.*
 
 Breathe! It's just a dream. It's nothing. Sometimes you fly and sometimes you fall. It's just a dream.
