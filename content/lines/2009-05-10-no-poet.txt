@@ -11,8 +11,8 @@ filter:
   - gfm
 ---
 
-I really want to show ‘em
-and try and get to know ‘em
+I really want to show 'em
+and try and get to know 'em
 perhaps I'll write a poem
 
 and while I may show it
