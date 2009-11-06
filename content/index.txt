@@ -7,7 +7,7 @@ filter:
 ---
 <div class="cover">
   <ul>
-    <li><a href="/aphorisms">aphorisms</a></li>
+    <li><a href="/aphorisms-ish">aphorisms</a></li>
     <li><a href="/lines">lines</a></li>
     <li><a href="/snippets">snippets</a></li>
   </ul>
