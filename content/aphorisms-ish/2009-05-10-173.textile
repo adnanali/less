@@ -1,8 +1,8 @@
 ---
 layout: post
 title: ""
-category: "aphorisms"
-directory: "aphorisms/173"
+category: "aphorisms-ish"
+directory: "aphorisms-ish/173"
 filename: "index"
 extension: "html"
 created_at: 2009-05-10 21:47:51 -04:00
