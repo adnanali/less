@@ -1,0 +1,9 @@
+---
+title:      story
+created_at: 2009-11-07 13:51:44.760293 +00:00
+filter:
+  - erb
+  - gfm
+---
+
+
