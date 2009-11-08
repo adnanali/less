@@ -1,0 +1,25 @@
+---
+title:      ghazal
+created_at: 2009-11-07 20:02:55.168987 -05:00
+filter:
+  - erb
+  - gfm
+---
+
+not a single star up there, no glimmers of moonlight
+i could wait all day, but the sky will be rather plain tonight.
+
+i think and think all day about the world around me
+and i wonder how i will keep myself sane tonight.
+
+some will spend the day with ease and joy
+at the expense of those who will be in pain tonight.
+
+tell me, while some will sing tunes of growling hunger,
+how can some be sipping wine and then still complain tonight?
+
+...
+drops will touch the ground, but there wil be no rain tonight
+
+...
+don't fall asleep, let this moment not pass in vain tonight
