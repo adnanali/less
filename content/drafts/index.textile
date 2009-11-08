@@ -7,7 +7,7 @@ filter:
 ---
 <h1>drafts</h1>
 
-<p> These are works in progress within the entire work in progress. </p>
+<p> These are works in progress within the entire work in progress, ideas thrown around. </p>
 
 <ol>
   <%
