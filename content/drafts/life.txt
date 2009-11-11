@@ -1,0 +1,34 @@
+---
+title:      life
+created_at: 2009-11-11 01:57:30.633367 +00:00
+filter:
+  - erb
+  - gfm
+---
+
+a thousand smiles, a thousand frowns
+a thousand miles, a thousand towns
+
+a thousand words, a thousand lines
+a thousand hurts, a thousand times
+
+a thousand tries, a thousand falls
+a thousand cries, a thousand calls
+
+a thousand beats, a thousand sounds
+a thousand streets, a thousand rounds
+
+a thousand pains, a thousand highs
+a thousand stains, a thousand lies
+
+a thousand burns, a thousand joys
+a thousand turns, a thousand toys
+
+...
+
+a thousand ways, a thousand whiles
+a thousand days, a thousand smiles
+
+zindagi aarahaa hoon mein
+(life, here i come)
+
