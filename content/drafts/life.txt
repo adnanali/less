@@ -1,5 +1,6 @@
 ---
-title:      life
+layout: post
+title: "life"
 created_at: 2009-11-11 01:57:30.633367 +00:00
 filter:
   - erb
