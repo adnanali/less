@@ -74,3 +74,84 @@ The door opens and Michelle walks into the room.
 
 "Very funny guys. Well done."
 
+"We're so conversational." noticed Michelle.
+
+<code>
+<ul class="screenbox">
+<li class="character">ALI</li>
+
+<li class="dialogue">Yeah, I think the exposition is better suited to the play or screenplay format.</li>
+
+<li class="character">MICHELLE</li>
+<li class="parenthetical">(nods)</li>
+
+<li class="dialogue">This way you don't have to juggle around with 'he said' and 'she says'. The dialogue is the conversation.</li>
+
+<li class="character">SUNIL</li>
+
+<li class="dialogue">So are you more comfortable like this? Are we feeling more real?</li>
+
+<li class="character">ALI</li>
+
+<li class="dialogue">I think so... maybe... just a little.</li>
+
+<li class="character">SUNIL</li>
+
+<li class="dialogue">And now you feel more you?</li>
+
+<li class="character">MICHELLE</li>
+
+<li class="dialogue">I'd still like some sort of a description.</li>
+
+<li class="character">ALI</li>
+
+<li class="dialogue">I think we're still missing something. A certain sense of rawness and grit. Hmmm... there's a lack of intimacy. There's never any sex.</li>
+
+<li class="character">MICHELLE</li>
+<li class="parenthetical">(looks at both the guys)</li>
+
+<li class="dialogue">And there won't be any now either.</li>
+
+<li class="action">Sunil bursts into laughter.</li>
+<li class="character">SUNIL</li>
+<li class="dialogue">Wait, where are we going with this?</li>
+
+<li class="character">MICHELLE</li>
+<li class="dialogue">Precisely.</li>
+
+<li class="character">ALI</li>
+<li class="dialogue">I'm trying to express how empty I feel. Not so much by way of being, but by way of what people see of me.</li>
+
+<li class="character">SUNIL</li>
+<li class="dialogue">Hmmm... wow. You're very self-aware. That's a good thing, I suppose.</li>
+
+<li class="character">MICHELLE</li>
+<li class="dialogue">Is it?</li>
+
+<li class="character">SUNIL</li>
+<li class="dialogue">Well, if you're self-aware you can realize and criticize things about yourself, right? You're in control of what you do, so change yourself and people will see you differently.</li>
+
+<li class="character">MICHELLE</li>
+<li class="dialogue">But are we really in control? Don't some of us have life in "auto-pilot"? We're cruising along with the flow, even as we go against our own grain. People go through all their lives in this state, through schools, marriages, children and everything. As if they've resigned to the flow and structures around them.</li>
+
+<li class="character">SUNIL</li>
+<li class="dialogue">But that's the whole idea of being self-aware and processing self-criticism. You have to switch out of auto-pilot and back into life. Change and be in control.</li>
+
+<li class="character">ALI</li>
+<li class="dialogue">Sure, but to what degree does one change? Is this a "how to make friends and influence people" advice of "take interest in people and they will like you" thing? Shouldn't you be genuine? Shouldn't you be yourself?</li>
+
+<li class="character">SUNIL</li>
+<li class="dialogue">Maybe, unless you suck, then you should try and be someone else. (laughs)</li>
+
+<li class="character">ALI</li>
+<li class="dialogue">Seriously, though, shouldn't you try and be yourself?</li>
+
+<li class="character">MICHELLE</li>
+<li class="dialogue">What if "being yourself" means being slimey and couth? Sunil has a point, shouldn't you try and not be yourself if you can be a better you?</li>
+
+
+
+
+</ul>
+</code>
+
