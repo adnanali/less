@@ -1,0 +1,26 @@
+---
+layout: post
+title: "mera kya kaam"
+created_at: 2009-11-12 01:57:30.633367 +00:00
+filter:
+  - erb
+  - gfm
+---
+
+chup chaap bhaithe raho kehte ho,
+kahin likha hai ke khade hona haraam hai.
+
+kyun mila te ho paani mein zeher
+aur pesh karte ho ke jaam hai?
+
+kyun banke qatil-e-ishq, kehte ho
+ke mebhoob ki bahoon mein araam hai?
+
+kyun manate ho azaadi ka aaj jasn,
+jab meri asliat mein aaj tanhaai ki shaam hai?
+
+kyun rastoon pe todh ke patthar, phir kehte ho
+yeh zakhm meri nakaami ka anjaam hai?
+
+kyun mujhe chodte nahin zaalim,
+teri duniya mein mera kya kaam hai?

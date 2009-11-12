@@ -149,6 +149,15 @@ The door opens and Michelle walks into the room.
 <li class="character">MICHELLE</li>
 <li class="dialogue">What if "being yourself" means being slimey and couth? Sunil has a point, shouldn't you try and not be yourself if you can be a better you?</li>
 
+<li class="character">SUNIL</li>
+<li class="dialogue">Right, and for that, first you have to recognize yourself and genuinely want to develop and grow.</li>
+
+<li class="character">MICHELLE</li>
+<li class="dialogue">Hah, now we're going in circles.</li>
+
+<li class="character">SUNIL</li>
+<li class="dialogue">I like circles.</li>
+
 
 
 
