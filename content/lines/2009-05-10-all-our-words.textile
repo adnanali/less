@@ -12,12 +12,18 @@ filter:
 ---
 
 if all your words were in a &lt;div&gt;
-I would style them with &lt;em&gt;phasis
+I would style them with &lt;em&gt;*phasis*
 I would take even the weak points
-and mark them &lt;strong&gt;
+and **mark** them &lt;strong&gt;
 I would put them all front and centre
 with {margin: 0px auto;}
-and I would put around them
+and I would wrap them with
 a blue dashed border with a width of one
 though if all my words were in a &lt;div&gt;
-I would style them with {display: none;}
+I would style them with <a id="none" href="#">{display: none;}</a>
+
+<script type="text/javascript">
+  $("#none").mouseover(function() {
+    $('div').hide();
+  });
+</script>
