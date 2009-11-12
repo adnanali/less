@@ -158,3 +158,58 @@ a {
 .copy {
   float:left;
 }
+
+
+.screenbox {
+    margin: 0px auto;
+    list-style: none;
+    width: 620px;
+    /*
+    background: #eee;
+    border: 1px solid #333;
+     */
+    padding: 5px 14px;
+}
+
+.screenbox li {
+    font:  12px/14px Courier, fixed;
+}
+
+.sceneheader,
+.action,
+.character {
+    padding-top: 1.5ex;
+}
+
+.action {
+    padding-right: 5%;
+}
+
+.character {
+    margin-left: 40%;
+}
+
+.dialogue {
+    margin-left: 25%;
+    padding-right: 25%;
+}
+
+.parenthetical {
+    margin-left: 32%;
+    padding-right: 30%;
+}
+
+/* special case: dialogue followed by
+a parenthetical; the extra line needs
+to be suppressed */
+
+.dialogue + .parenthetical {
+    padding-bottom: 0;
+}
+
+.transition {
+    padding-top: 3ex;
+    margin-left: 65%;
+    padding-bottom: 1.5ex;
+}
+

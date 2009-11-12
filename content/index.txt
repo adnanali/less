@@ -10,6 +10,6 @@ filter:
     <li><a href="/aphorisms-ish">aphorisms-ish</a></li>
     <li><a href="/lines">lines</a></li>
     <li><a href="/snippets">snippets</a></li>
-    <li><a href="/drafts">drafts</a></li>
+    <!-- li><a href="/drafts">drafts</a></li -->
   </ul>
 </div>
