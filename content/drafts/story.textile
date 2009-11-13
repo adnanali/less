@@ -134,6 +134,12 @@ The door opens and Michelle walks into the room.
 <li class="character">MICHELLE</li>
 <li class="dialogue">But are we really in control? Don't some of us have life in "auto-pilot"? We're cruising along with the flow, even as we go against our own grain. People go through all their lives in this state, through schools, marriages, children and everything. As if they've resigned to the flow and structures around them.</li>
 
+<li class="character">ALI</li>
+<li class="dialogue">Auto-pilot?</li>
+
+<li class="character">MICHELLE</li>
+<li class="dialogue">Yeah, you know, say you take a certain path to get to school everyday. Now you have to go to some store, or some other place, and the path to the store starts off the same as the path to school. You start off thinking that you want to go to the store, but then your mind slips into auto-pilot mode, and you end up at school. Take that concept and extend it to life itself.</li>
+
 <li class="character">SUNIL</li>
 <li class="dialogue">But that's the whole idea of being self-aware and processing self-criticism. You have to switch out of auto-pilot and back into life. Change and be in control.</li>
 
@@ -147,7 +153,7 @@ The door opens and Michelle walks into the room.
 <li class="dialogue">Seriously, though, shouldn't you try and be yourself?</li>
 
 <li class="character">MICHELLE</li>
-<li class="dialogue">What if "being yourself" means being slimey and couth? Sunil has a point, shouldn't you try and not be yourself if you can be a better you?</li>
+<li class="dialogue">What if "being yourself" means being a child molestor or a wife-beater? Sunil has a point, shouldn't you try and not be yourself if you can be a better you?</li>
 
 <li class="character">SUNIL</li>
 <li class="dialogue">Right, and for that, first you have to recognize yourself and genuinely want to develop and grow.</li>
